@@ -38,7 +38,7 @@ Welcome to the **ZEN Store App**! This Flutter application allows users to creat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/G0AMER/ZEN_App.git
+   git clone https://github.com/G0AMER/ZEN_App-final.git
    ```
 2. Navigate to the project directory:
    ```bash
