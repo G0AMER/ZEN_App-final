@@ -42,7 +42,7 @@ Welcome to the **ZEN Store App**! This Flutter application allows users to creat
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ZEN_App
+   cd ZEN_App-final
    ```
 3. Install dependencies:
    ```bash
